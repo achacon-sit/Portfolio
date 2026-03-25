@@ -23,5 +23,5 @@ A personal portfolio website showcasing my projects, technical background, and e
 Add your GitHub Pages link here once deployed.
 
 ## Contact
-- LinkedIn: linkedin.com/in/adrian-chacon-sit/
+- LinkedIn: [linkedin.com/in/adrian-chacon-sit/](https://www.linkedin.com/in/adrian-chacon-sit/)
 - Email: adrianchacon2023@gmail.com
