@@ -20,7 +20,7 @@ A personal portfolio website showcasing my projects, technical background, and e
 - `nba_player_points_analytics.ipynb`
 
 ## Live Site
-Add your GitHub Pages link here once deployed.
+https://achacon-sit.github.io/Portfolio/
 
 ## Contact
 - LinkedIn: [linkedin.com/in/adrian-chacon-sit/](https://www.linkedin.com/in/adrian-chacon-sit/)
