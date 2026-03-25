@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Adrian Chacon | Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="container nav-inner">
+      <a href="#" class="logo">Adrian Chacon</a>
+      <div class="nav-links">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="container hero-content">
+      <p class="eyebrow">Computer Science · Machine Learning</p>
+      <h1>Adrian Chacon</h1>
+      <p class="hero-text">
+        Computer Science student building thoughtful, technically strong solutions
+        with a focus on machine learning, software engineering, and real-world impact.
+      </p>
+      <a href="#projects" class="btn">View Projects</a>
+    </div>
+  </header>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        I am a Computer Science student at Stevens Institute of Technology pursuing
+        a Bachelor’s degree in Computer Science and a Master’s in Machine Learning.
+        I am passionate about using technology to solve real-world problems and am
+        always looking for career and research opportunities.
+      </p>
+    </div>
+  </section>
+
+  <section id="projects" class="section">
+  <div class="container">
+    <h2>Projects</h2>
+
+    <div class="card-grid">
+      <article class="card">
+        <p class="project-tag">Machine Learning · Sports Analytics</p>
+        <h3>NBA Player Points Analytics</h3>
+        <p>
+          Built a machine learning project to predict how many points an NBA player
+          will score in a given game by combining player offensive statistics with
+          opponent defensive metrics. The model moves beyond season averages by
+          accounting for matchup-specific context.
+        </p>
+
+        <ul class="project-highlights">
+          <li>Developed a regression-based prediction pipeline using publicly available NBA data</li>
+          <li>Compared standard linear regression and ridge regression</li>
+          <li>Used standardized numerical features across thousands of player-game instances</li>
+          <li>Benchmarked results against season averages and FanDuel player prop lines</li>
+        </ul>
+
+        <div class="project-links">
+          <a href="CS_559__NBA_Player_Points_Analytics.pdf" target="_blank" rel="noopener noreferrer">View PDF</a>
+          <a href="#" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+  <section id="contact" class="section">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>
+        Feel free to reach out regarding opportunities, collaborations, or research.
+      </p>
+      <p>
+        <a href="mailto:adrianchacon2023@gmail.com">adrianchacon2023@gmail.com</a>
+      </p>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Adrian Chacon</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
