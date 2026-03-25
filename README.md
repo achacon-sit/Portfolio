@@ -13,9 +13,6 @@ A personal portfolio website showcasing my projects, technical background, and e
 - JavaScript
 
 ## Project Files
-- `index.html`
-- `style.css`
-- `script.js`
 - `CS_559__NBA_Player_Points_Analytics.pdf`
 - `nba_player_points_analytics.ipynb`
 
