@@ -202,3 +202,10 @@ a:hover {
 .project-highlights li {
   margin-bottom: 0.6rem;
 }
+
+.project-collaborator {
+  margin-top: -0.25rem;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
